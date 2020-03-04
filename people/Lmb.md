@@ -7,4 +7,4 @@ categories: [people]
 
 Linnea is a graduate student in the Physics Department at Emory University. She is currently working on the evolution of cooperation.
 
-![Linnea Bavik](/images/LinneaCatalinaVienna.jpg)
+![Linnea Bavik](/images/LinneaCatalinaVienna.jpeg)
